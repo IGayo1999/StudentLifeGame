@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - InteractionCollider
+  - FastTransport
   layers:
   - Default
   - TransparentFX
